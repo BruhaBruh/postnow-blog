@@ -1,4 +1,4 @@
-# AtlanSkins Блог
+# Postnow Блог
 
 Основан на MDX
 
